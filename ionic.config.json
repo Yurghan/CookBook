@@ -1,0 +1,7 @@
+{
+  "name": "first-one",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
