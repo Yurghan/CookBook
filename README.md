@@ -1,5 +1,5 @@
 # CookBook
 Vue + Ionic
 
-##Preview
+## Preview
 https://cookbook-ionic.netlify.app/recipes
