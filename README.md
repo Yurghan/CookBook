@@ -2,4 +2,4 @@
 Vue + Ionic
 
 ## Preview
-https://cookbook-ionic.netlify.app/recipes
+https://cookbook-ionic.netlify.app
